@@ -1,0 +1,37 @@
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0xf81c2cbcd67d3da8926bfe204b2ca3328c8f1f94ad63a8564e29b9ce28ff1ded
+   > contract address:    0xAa0Bb135DF0654212F9e8802A93C62072935Aec1
+
+   Deploying 'TukarV2ERC20'
+   ------------------------
+   > transaction hash:    0xcec5876f8956f1b403b8cdeab3f2a1d5346faf03b64c7f65d8a85b155fbb44d1
+   > contract address:    0x2915C4b857820E45D71Fc04DACf9b0ec7E1c180f
+
+   Deploying 'TukarV2Factory'
+   --------------------------
+   > transaction hash:    0x5f56c925e40b12471e92eb2fc00217695e0aa5c992afa9fd97d1d139d77c5b80
+   > contract address:    0xeE3276B17f1beb318746c006c479FA64E03209Bd
+
+   Deploying 'TukarV2Pair'
+   -----------------------
+   > transaction hash:    0xf4f16873a8068c336d482b73d823bf4cb23af8c195046e81ec34d286853d499e
+   > contract address:    0x1eE293390BEdc0718Be6CEd25f786DbD22C4Af6A
+
+   TukarV2Pair bytecode hash (Look for INIT_CODE_HASH):
+   0x3965edfee8c3d196b59cb83e74aa89617d0ba2a91b7dabb1acf5564c26f92531
+
+   Deploying 'TukarV2Router02'
+   ---------------------------
+   > transaction hash:    0xfa258709b2d8c424434b0eee24ae483f58ae6b00d83765e0320e09774f2cfda5
+   > contract address:    0xa376fb1B36dE0e68719b09B479D0e08b3C9999B7
+
+   Deploying 'TukarV2Router01'
+   ---------------------------
+   > transaction hash:    0x416114157aac311b7a39b84ec128a6595795d4aa4cb6c9ce9ae78d208bf80c30
+   > contract address:    0x75D0CBe7CA4bbe10591f20C8D61976D39cd8C705
+
+   Deploying 'Multicall'
+   ---------------------
+   > transaction hash:    0xe1bb1989824f74668dff9f610a5260d93cb62f3e4e9f0cf867c7b2969f157cd7
+   > contract address:    0x541bF7dC883878A2da4c54CC0FaF8f6a45142108
